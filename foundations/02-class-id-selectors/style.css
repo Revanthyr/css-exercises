@@ -1,0 +1,17 @@
+.paragraph {
+    background-color: rgb(230, 143, 143);
+    font-size: 25px;
+}
+.paragraph#p2{
+    font-size:40px
+}
+#div1 {
+    color:blue;
+    font-size:50px;
+    font-family:'Courier New', Courier, monospace;
+}
+#div2{
+    background-color:rgb(30, 192, 30);
+    font-weight:bold;
+    font-size:30px;
+}
